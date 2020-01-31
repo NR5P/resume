@@ -114,7 +114,7 @@ section:last-child {
 
 .sectionTitle {
 	display: block;
-	width: 25%;
+	width: 40%;
 }
 
 .sectionContent {
@@ -132,6 +132,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
+	text-align: center;
 }
 
 .subDetails {
