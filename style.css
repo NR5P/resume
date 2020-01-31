@@ -113,13 +113,12 @@ section:last-child {
 }
 
 .sectionTitle {
-	float: left;
+	display: block;
 	width: 25%;
 }
 
 .sectionContent {
-	float: right;
-	width: 72.5%;
+	width: 100%;
 }
 
 .sectionTitle h1 {
